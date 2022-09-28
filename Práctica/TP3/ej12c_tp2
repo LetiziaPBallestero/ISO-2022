@@ -1,0 +1,8 @@
+#!/bin/bash
+
+num1=$1
+num2=$2
+operacion=$3
+
+echo "Operacion: "$((num1 operacion num2))
+
